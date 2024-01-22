@@ -1,0 +1,7 @@
+id:-sample
+exam(sample):-sample exam
+author(sample):-aditya
+
+id:-sample1
+exam(sample1):-sample exam 2
+author(sample1):-aditya
